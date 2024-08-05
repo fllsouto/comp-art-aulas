@@ -6,5 +6,9 @@ function setup() {
 }
 
 function draw() {
-  background("blue");
+  background("gray");
+  strokeWeight(10); // Set the thickness of the point
+  x = 150 * (1 + s)
+  y = 105 * (1 + s)
+  point(x, y);  // Draw a point at coordinates (200, 200)
 }

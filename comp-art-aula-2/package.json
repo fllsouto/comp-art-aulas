@@ -1,0 +1,14 @@
+{
+  "name": "comp-art-aula-2",
+  "version": "1.0.0",
+  "description": "Fazendo arte com computação, javascript e p5.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fellipe Souto",
+  "license": "ISC",
+  "dependencies": {
+    "p5": "^1.10.0"
+  }
+}
